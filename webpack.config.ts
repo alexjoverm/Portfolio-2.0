@@ -101,7 +101,6 @@ var serverConfig = {
     // '@angular/platform-server',
     // '@angular/router',
 
-    '@angular/material'
   ]),
   node: {
     global: true,
